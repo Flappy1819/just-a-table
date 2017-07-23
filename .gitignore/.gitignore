@@ -1,0 +1,22 @@
+<head>
+<title>Just A Table</title>
+<body>
+
+<table border="1"> 
+ 
+  <tr> 
+    <th>This</th> 
+    <th>is a </th>  
+    <th>TH (Tabel header)</th> 
+  </tr> 
+ 
+  <tr> 
+    <td>this</td> 
+    <td>is the</td>  
+    <td>td (Tabel Data)</td> 
+  </tr> 
+
+
+</table>
+</body>
+</head>
